@@ -248,14 +248,17 @@ Balance        : Rs. 12000.00
 
 ## Screenshots
 
-> *Place your captured application screenshots inside the `screenshots/` directory with the following names:*
+### 1. Main Menu
+![Main Menu](screenshots/main-menu.png)
 
-| Screen | Preview |
-|---|---|
-| **Main Menu** | `![Main Menu](screenshots/main-menu.png)` |
-| **Account Creation** | `![Account Creation](screenshots/account-creation.png)` |
-| **Deposit & Withdrawal** | `![Deposit and Withdrawal](screenshots/deposit-withdrawal.png)` |
-| **Transaction History** | `![Transaction History](screenshots/transaction-history.png)` |
+### 2. Account Creation
+![Account Creation](screenshots/account-creation.png)
+
+### 3. Deposit & Withdrawal Operations
+![Deposit and Withdrawal](screenshots/deposit-withdrawal.png)
+
+### 4. Transaction History Audit Log
+![Transaction History](screenshots/transaction-history.png)
 
 ---
 
