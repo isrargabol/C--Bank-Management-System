@@ -1,4 +1,4 @@
-﻿# C++ Bank Management System
+# C++ Bank Management System
 
 A clean, modular, and menu-driven **Bank Management System** developed in **C++**. This project demonstrates core Object-Oriented Programming (OOP) concepts, file handling, input validation, string parsing, and data persistence using standard C++ libraries.
 
@@ -125,8 +125,8 @@ Data persistence in this project is implemented using flat-file text storage:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd C++-Bank-Management-System
+git clone https://github.com/isrargabol/C--Bank-Management-System.git
+cd C--Bank-Management-System
 ```
 
 ### Step 2: Compile the Source Code
