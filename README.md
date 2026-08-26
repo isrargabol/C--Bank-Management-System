@@ -250,22 +250,22 @@ Balance        : Rs. 12000.00
 
 ### 1. Main Menu
 <p align="center">
-  <img src="https://raw.githubusercontent.com/isrargabol/C--Bank-Management-System/main/screenshots/main-menu.png" alt="Main Menu" width="800" />
+  <img src="https://raw.githubusercontent.com/isrargabol/C--Bank-Management-System/main/screenshots/main-menu.png?raw=true" alt="Main Menu" width="800" />
 </p>
 
 ### 2. Account Creation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/isrargabol/C--Bank-Management-System/main/screenshots/account-creation.png" alt="Account Creation" width="800" />
+  <img src="https://raw.githubusercontent.com/isrargabol/C--Bank-Management-System/main/screenshots/account-creation.png?raw=true" alt="Account Creation" width="800" />
 </p>
 
 ### 3. Deposit & Withdrawal Operations
 <p align="center">
-  <img src="https://raw.githubusercontent.com/isrargabol/C--Bank-Management-System/main/screenshots/deposit-withdrawal.png" alt="Deposit and Withdrawal" width="800" />
+  <img src="https://raw.githubusercontent.com/isrargabol/C--Bank-Management-System/main/screenshots/deposit-withdrawal.png?raw=true" alt="Deposit and Withdrawal" width="800" />
 </p>
 
 ### 4. Transaction History Audit Log
 <p align="center">
-  <img src="https://raw.githubusercontent.com/isrargabol/C--Bank-Management-System/main/screenshots/transaction-history.png" alt="Transaction History" width="800" />
+  <img src="https://raw.githubusercontent.com/isrargabol/C--Bank-Management-System/main/screenshots/transaction-history.png?raw=true" alt="Transaction History" width="800" />
 </p>
 
 ---
