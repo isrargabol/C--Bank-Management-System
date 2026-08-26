@@ -249,16 +249,24 @@ Balance        : Rs. 12000.00
 ## Screenshots
 
 ### 1. Main Menu
-![Main Menu](screenshots/main-menu.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/isrargabol/C--Bank-Management-System/main/screenshots/main-menu.png" alt="Main Menu" width="800" />
+</p>
 
 ### 2. Account Creation
-![Account Creation](screenshots/account-creation.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/isrargabol/C--Bank-Management-System/main/screenshots/account-creation.png" alt="Account Creation" width="800" />
+</p>
 
 ### 3. Deposit & Withdrawal Operations
-![Deposit and Withdrawal](screenshots/deposit-withdrawal.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/isrargabol/C--Bank-Management-System/main/screenshots/deposit-withdrawal.png" alt="Deposit and Withdrawal" width="800" />
+</p>
 
 ### 4. Transaction History Audit Log
-![Transaction History](screenshots/transaction-history.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/isrargabol/C--Bank-Management-System/main/screenshots/transaction-history.png" alt="Transaction History" width="800" />
+</p>
 
 ---
 
